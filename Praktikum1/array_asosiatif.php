@@ -14,4 +14,4 @@ $mhs = [
 echo "Nama: " . $mhs['nama'];
 echo "<br> IPS semester 1: " . $mhs['ips']['1'];
 echo "<br> IPS semester 2: " . $mhs['ips']['2'];
-echo "<br> IPS semester 3: " . $mhs['ips']['3'];
+echo "<br> IPS semester 3: " . $mhs['ips']['3'];    
