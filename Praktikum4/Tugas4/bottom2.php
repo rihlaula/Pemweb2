@@ -5,14 +5,15 @@
   </div>
   <!-- /.content-wrapper -->
   <footer class="main-footer">
-    <strong>Copyright &copy; 2024-2025 <a href="#">Rahmi Izzati</a>.</strong>
+    <strong>Copyright &copy; 2024-2025 <a href="#">Rihlatul Ula Rahmat</a>.</strong>
     All rights reserved.
     </div>
   </footer>
 
   <!-- Control Sidebar -->
   <aside class="control-sidebar control-sidebar-dark">
-    <!-- Control sidebar content goes here -->
+    <!-- Control sidebar c
+    ontent goes here -->
   </aside>
   <!-- /.control-sidebar -->
   </div>

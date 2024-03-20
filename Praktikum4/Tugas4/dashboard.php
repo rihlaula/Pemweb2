@@ -23,5 +23,5 @@ include_once('menu2.php');
     </div>
 
     <?php
-    include_once('bottom2.php');
+    include_once('bottom.php');
     ?>
