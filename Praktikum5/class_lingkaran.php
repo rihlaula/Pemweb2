@@ -29,8 +29,7 @@ class Lingkaran{
 
 }
 
-class Persegi{
 
-}
+
 
 ?>
