@@ -9,21 +9,33 @@
                         Dashboard
                     </a>
 
-                    <a class="nav-link" href="registrasi.php">
-                        <div class="sb-nav-link-icon"><i class="fas fa-pen-to-square"></i></div>
-                        Registrasi
-                    </a>
-
                     <a class="nav-link" href="pasien.php">
                         <div class="sb-nav-link-icon"><i class="fas fa-hospital-user"></i></div>
                         Pasien
                     </a>
 
+                    <a class="nav-link" href="unitkerja.php">
+                        <div class="sb-nav-link-icon"><i class="fas fa-hospital-user"></i></div>
+                        Unit Kerja
+                    </a>
+
+                    <a class="nav-link" href="periksa.php">
+                        <div class="sb-nav-link-icon"><i class="fas fa-hospital-user"></i></div>
+                        Periksa
+                    </a>
+
+                    <a class="nav-link" href="paramedik.php">
+                        <div class="sb-nav-link-icon"><i class="fas fa-hospital-user"></i></div>
+                        Paramedik
+                    </a>
+
                 </div>
             </div>
+
+
             <div class="sb-sidenav-footer">
                 <div class="small">Logged in as:</div>
-                Start Bootstrap
+                Start Admin
             </div>
         </nav>
     </div>
